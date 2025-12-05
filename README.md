@@ -131,6 +131,12 @@ I will update this as I progress:
  Step 5: Strings
 
  Step 7: Recursion
+ ## 🌟 GitHub Streak (Updating Daily)
+
+Here is my current consistency streak while solving DSA every day:
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lakshpri&theme=dark&hide_border=true)
+
 
 🤝 Contributions & Feedback
 
