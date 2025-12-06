@@ -133,15 +133,13 @@ I will update this as I progress:
  Step 7: Recursion
  ## 🌟 GitHub Streak (Updating Daily)
 
-Here is my current consistency streak while solving DSA every day:
+### 🔥 DSA Consistency – Day 3
+
+Here is my current 2-day consistency streak while solving DSA every day:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Lakshpri&theme=dark&hide_border=true)
+
 ## 📊 GitHub Stats
-
-![Lakshpri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshpri&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 🧵 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshpri&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
